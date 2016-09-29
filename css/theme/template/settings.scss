@@ -2,7 +2,8 @@
 // overridden by the super-theme
 
 // Background of the presentation
-$backgroundColor: #2b2b2b;
+//$backgroundColor: #2b2b2b;
+$backgroundColor: #000;
 
 // Primary/body text
 $mainFont: 'Lato', sans-serif;
@@ -15,7 +16,8 @@ $blockMargin: 20px;
 // Headings
 $headingMargin: 0 0 $blockMargin 0;
 $headingFont: 'League Gothic', Impact, sans-serif;
-$headingColor: #eee;
+//$headingColor: #eee;
+$headingColor: #F01212;
 $headingLineHeight: 1.2;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
